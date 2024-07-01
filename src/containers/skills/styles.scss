@@ -13,7 +13,11 @@
     }
 }
 
-@media only screen and (max-width : 768px){
+@media only screen and (max-width : 768px){    
+
+    .skills{
+        margin-top: 300px;
+    }
     .skills__content__wrapper__inner-content{
         width: 80%;
         h1{

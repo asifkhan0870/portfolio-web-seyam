@@ -57,7 +57,11 @@
     display: none;
 }
 
-@media only screen and (max-width : 768px){
+@media only screen and (max-width : 768px){    
+    .home{
+        margin-top: 220px;
+    }
+
     .navbar__container__menu{
         display: flex;
         flex-direction: column;
